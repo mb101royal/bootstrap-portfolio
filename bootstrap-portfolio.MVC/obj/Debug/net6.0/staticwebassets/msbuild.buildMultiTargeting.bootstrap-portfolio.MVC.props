@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\bootstrap-portfolio.MVC.props" />
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Core\bin\Debug\net6.0\bootstrap-portfolio.Core.deps.json
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Core\bin\Debug\net6.0\bootstrap-portfolio.Core.dll
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Core\bin\Debug\net6.0\bootstrap-portfolio.Core.pdb
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Core\obj\Debug\net6.0\bootstrap-portfolio.Core.csproj.AssemblyReference.cache
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Core\obj\Debug\net6.0\bootstrap-portfolio.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Core\obj\Debug\net6.0\bootstrap-portfolio.Core.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Core\obj\Debug\net6.0\bootstrap-portfolio.Core.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Core\obj\Debug\net6.0\bootstrap-portfolio.Core.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Core\obj\Debug\net6.0\bootstrap-portfolio.Core.csproj.CopyComplete
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Core\obj\Debug\net6.0\bootstrap-portfolio.Core.dll
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Core\obj\Debug\net6.0\refint\bootstrap-portfolio.Core.dll
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Core\obj\Debug\net6.0\bootstrap-portfolio.Core.pdb
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Core\obj\Debug\net6.0\ref\bootstrap-portfolio.Core.dll
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Core\bin\Debug\net6.0\bootstrap-portfolio.DataAccess.dll
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Core\bin\Debug\net6.0\bootstrap-portfolio.DataAccess.pdb

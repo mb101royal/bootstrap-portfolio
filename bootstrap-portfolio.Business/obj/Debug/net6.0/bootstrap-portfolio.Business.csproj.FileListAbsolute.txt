@@ -1,0 +1,17 @@
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Business\bin\Debug\net6.0\bootstrap-portfolio.Business.deps.json
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Business\bin\Debug\net6.0\bootstrap-portfolio.Business.dll
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Business\bin\Debug\net6.0\bootstrap-portfolio.Business.pdb
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Business\bin\Debug\net6.0\bootstrap-portfolio.Core.dll
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Business\bin\Debug\net6.0\bootstrap-portfolio.Core.pdb
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Business\obj\Debug\net6.0\bootstrap-portfolio.Business.csproj.AssemblyReference.cache
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Business\obj\Debug\net6.0\bootstrap-portfolio.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Business\obj\Debug\net6.0\bootstrap-portfolio.Business.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Business\obj\Debug\net6.0\bootstrap-portfolio.Business.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Business\obj\Debug\net6.0\bootstrap-portfolio.Business.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Business\obj\Debug\net6.0\bootstrap-portfolio.Business.csproj.CopyComplete
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Business\obj\Debug\net6.0\bootstrap-portfolio.Business.dll
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Business\obj\Debug\net6.0\refint\bootstrap-portfolio.Business.dll
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Business\obj\Debug\net6.0\bootstrap-portfolio.Business.pdb
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Business\obj\Debug\net6.0\ref\bootstrap-portfolio.Business.dll
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Business\bin\Debug\net6.0\bootstrap-portfolio.DataAccess.dll
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.Business\bin\Debug\net6.0\bootstrap-portfolio.DataAccess.pdb

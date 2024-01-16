@@ -1,0 +1,12 @@
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.DataBaseAccessLayer\bin\Debug\net6.0\bootstrap-portfolio.DataAccess.deps.json
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.DataBaseAccessLayer\bin\Debug\net6.0\bootstrap-portfolio.DataAccess.dll
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.DataBaseAccessLayer\bin\Debug\net6.0\bootstrap-portfolio.DataAccess.pdb
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.DataBaseAccessLayer\obj\Debug\net6.0\bootstrap-portfolio.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.DataBaseAccessLayer\obj\Debug\net6.0\bootstrap-portfolio.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.DataBaseAccessLayer\obj\Debug\net6.0\bootstrap-portfolio.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.DataBaseAccessLayer\obj\Debug\net6.0\bootstrap-portfolio.DataAccess.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.DataBaseAccessLayer\obj\Debug\net6.0\bootstrap-portfolio.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.DataBaseAccessLayer\obj\Debug\net6.0\bootstrap-portfolio.DataAccess.dll
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.DataBaseAccessLayer\obj\Debug\net6.0\refint\bootstrap-portfolio.DataAccess.dll
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.DataBaseAccessLayer\obj\Debug\net6.0\bootstrap-portfolio.DataAccess.pdb
+C:\Users\Birinci Novbe\Desktop\bootstrap-portfolio\bootstrap-portfolio.DataBaseAccessLayer\obj\Debug\net6.0\ref\bootstrap-portfolio.DataAccess.dll
